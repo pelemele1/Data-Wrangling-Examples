@@ -5,5 +5,5 @@
  ## Contributing
  At the moment no contributing of third parties is intended.
 
- ##License 
+ ## License 
  s Copyright © 2021 Felix Deichsel. It is free software, and may be redistributed under the terms specified in the license file.
