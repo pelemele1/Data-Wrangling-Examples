@@ -2,6 +2,10 @@
 ## Description
  This project is about investigating a dataset, which consists of 19,000 job postings from 2004 to 2015 posted on CareerCenter, an Armenian human resource portal. The dataset can be found here [here](https://www.kaggle.com/udacity/armenian-online-job-postings)
 
+Installation
+1. Download the data from [here](https://www.kaggle.com/udacity/armenian-online-job-postings) and copy it to your desired working directory
+2. Copy it
+
  ## Contributing
  At the moment no contributing of third parties is intended.
 
